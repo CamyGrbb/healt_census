@@ -1,0 +1,55 @@
+{
+  "conditions": [
+    {
+      "name": "Thyroid",
+      "imagesrc": "https://static7.depositphotos.com/1194063/686/i/450/depositphotos_6868706-stock-photo-ultrasound.jpg",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain or loss",
+        "Dry skin",
+        "Muscle weakness",
+        "Irregular menstrual periods"
+      ],
+      "prevention": [
+        "Eat a balanced diet",
+        "Exercise regularly",
+        "Get regular check-ups"
+      ],
+      "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+    },
+    {
+      "name": "Diabetes",
+      "imagesrc": "https://media.istockphoto.com/id/1324663432/es/foto/mujer-asi%C3%A1tica-usando-lanceta-en-el-dedo-para-comprobar-el-nivel-de-az%C3%BAcar-en-la-sangre-por.jpg?s=612x612&w=0&k=20&c=4VeQUWJ8a51sF9s1YG4xtSY4TBMwHhjEwm1zep3osf8=",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Blurry vision",
+        "Fatigue",
+        "Slow healing of cuts or sores"
+      ],
+      "prevention": [
+        "Maintain a healthy weight",
+        "Follow a balanced diet",
+        "Regular exercise"
+      ],
+      "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+    },
+    {
+      "name": "High Blood Pressure",
+      "imagesrc": "https://media.istockphoto.com/id/1411828972/es/vector/ilustraci%C3%B3n-vectorial-de-hipertensi%C3%B3n-o-taquicardia-icono-de-presi%C3%B3n-arterial-alta.jpg?s=612x612&w=0&k=20&c=f2RZscVl82QQ5RS-21ZDedj5yDccS0CpDp6oL5jRT9Q=",
+      "symptoms": [
+        "Headaches",
+        "Shortness of breath",
+        "Chest pain",
+        "Dizziness",
+        "Blurred or double vision"
+      ],
+      "prevention": [
+        "Reduce salt intake",
+        "Exercise regularly",
+        "Maintain a healthy weight"
+      ],
+      "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+    }
+  ]
+}
